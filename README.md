@@ -2,3 +2,5 @@
 
 ## Contents
 - Introduction
+- Contributing
+- License
