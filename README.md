@@ -1,10 +1,10 @@
 # Kaggle PUBG Finish Placement Prediction
+For full details of the PUBG Finish Placement Prediction competition, click [here](https://www.kaggle.com/c/pubg-finish-placement-prediction).
 
 ## Contents
 - [Introduction](#Introduction)
-- [Problem Definition](#Problem-Definition)
-- [Inputs & Outputs](Inputs-&-Outputs)
 - [Installation](#Installation)
+- [Usage](#Usage)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Model Deployment](#Model-Deployment)
 - [Contributing](#Contributing)
@@ -12,11 +12,9 @@
 
 ## Introduction
 
-## Problem Definition
-
-## Inputs & Outputs
-
 ## Installation
+
+## Usage
 
 ## Exploratory Data Analysis
 
