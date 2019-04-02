@@ -17,12 +17,12 @@ For full details of the PUBG Finish Placement Prediction competition, click [her
 ## Usage
 
 ## Exploratory Data Analysis
-- [Random Forest model](./pubg-finish-placement-prediction-rf.ipynb)
-- [XGBoost model](./pubg-finish-placement-prediction-xgb.ipynb)
 
 ## Model Deployment
+- [Random Forest model](./pubg-finish-placement-prediction-rf.ipynb)
+- [XGBoost model](./pubg-finish-placement-prediction-xgb.ipynb)
 
 ## Contributing
 
 ## License
-Kaggle PUBG Finish Placement Prediction is licensed under the [MIT License](./LICENSE)
+Kaggle PUBG Finish Placement Prediction is licensed under the [MIT License](./LICENSE).
