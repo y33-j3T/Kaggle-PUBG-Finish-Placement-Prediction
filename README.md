@@ -28,4 +28,4 @@ Official datasets can be found [here](https://www.kaggle.com/c/pubg-finish-place
 ## Contributing
 
 ## License
-Kaggle PUBG Finish Placement Prediction is licensed under the [MIT License](./LICENSE).
+Kaggle PUBG Finish Placement Prediction is released under the [MIT License](./LICENSE).
