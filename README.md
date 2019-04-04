@@ -19,6 +19,8 @@ PlayerUnknown's BattleGrounds (PUBG) is a Battle Royale-style video game. 100 pl
 
 ## Exploratory Data Analysis
 Official datasets can be found [here](https://www.kaggle.com/c/pubg-finish-placement-prediction/data).
+- [Data Preprocessing]
+
 
 ## Model Deployment
 - [Random Forest model](./pubg-finish-placement-prediction-rf.ipynb)
