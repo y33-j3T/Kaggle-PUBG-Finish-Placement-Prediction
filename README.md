@@ -33,14 +33,13 @@ What's the best strategy to win in PUBG? Should you sit in one spot and hide you
 </details>
 
 ### Competition Evaluation
-
 <details>
 <summary>Details</summary>
   
 Submissions are evaluated on [Mean Absolute Error](https://en.wikipedia.org/wiki/Mean_absolute_error) between your predicted `winPlacePerc` and the observed `winPlacePerc`.
 
 Submission File
-For each Id in the test set, you must predict their placement as a percentage (0 for last, 1 for first place) for the winPlacePerc variable. The file should contain a header and have the following format:
+For each Id in the test set, you must predict their placement as a percentage (0 for last, 1 for first place) for the `winPlacePerc` variable. The file should contain a header and have the following format:
 ``` markdown
 Id,winPlacePerc
 47734,0
@@ -49,7 +48,7 @@ Id,winPlacePerc
 47737,1
 etc.
 ```
-See sample_submission.csv on the data page for a full sample submission.
+See `sample_submission.csv` on the [data page](https://www.kaggle.com/c/pubg-finish-placement-prediction/data) for a full sample submission.
   
 *from [competition website](https://www.kaggle.com/c/pubg-finish-placement-prediction)*.
 
