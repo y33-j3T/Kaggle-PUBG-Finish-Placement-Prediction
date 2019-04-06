@@ -28,7 +28,7 @@ You are given over 65,000 games' worth of anonymized player data, split into tra
 
 What's the best strategy to win in PUBG? Should you sit in one spot and hide your way into victory, or do you need to be the top shot? Let's let the data do the talking!
 
-*from [competition website](https://www.kaggle.com/c/pubg-finish-placement-prediction)*.
+*from [competition website...](https://www.kaggle.com/c/pubg-finish-placement-prediction)*
 
 </details>
 
@@ -50,7 +50,7 @@ etc.
 ```
 See `sample_submission.csv` on the [data page](https://www.kaggle.com/c/pubg-finish-placement-prediction/data) for a full sample submission.
   
-*from [competition website](https://www.kaggle.com/c/pubg-finish-placement-prediction)*.
+*from [competition website...](https://www.kaggle.com/c/pubg-finish-placement-prediction)*
 
 </details>
 
