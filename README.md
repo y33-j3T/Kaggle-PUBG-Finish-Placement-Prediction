@@ -59,7 +59,7 @@ See `sample_submission.csv` on the [data page](https://www.kaggle.com/c/pubg-fin
 ## Usage
 
 ## Exploratory Data Analysis
-Official datasets can be found [here](https://www.kaggle.com/c/pubg-finish-placement-prediction/data).
+Official datasets website: https://www.kaggle.com/c/pubg-finish-placement-prediction/data
 - [Data Preprocessing]
 
 
