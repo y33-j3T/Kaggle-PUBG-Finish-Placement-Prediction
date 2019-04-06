@@ -28,6 +28,7 @@ Official datasets can be found [here](https://www.kaggle.com/c/pubg-finish-place
 - [Ensemble model](./pubg-finish-placement-prediction-ensemble.ipynb)
 
 ## Contributing
+- Please refer to [CONTRIBUTE.md](./CONTRIBUTE.md) for details. :heart_eyes:
 
 ## License
 Kaggle PUBG Finish Placement Prediction is released under the [MIT License](./LICENSE).
