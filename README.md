@@ -1,5 +1,5 @@
 # Kaggle PUBG Finish Placement Prediction
-For full details of the PUBG Finish Placement Prediction competition, click [here](https://www.kaggle.com/c/pubg-finish-placement-prediction).
+Competition website: https://www.kaggle.com/c/pubg-finish-placement-prediction
 
 ## Contents
 - [Introduction](#Introduction)
