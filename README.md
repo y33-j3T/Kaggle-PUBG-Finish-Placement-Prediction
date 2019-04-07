@@ -88,7 +88,7 @@ Official datasets website: https://www.kaggle.com/c/pubg-finish-placement-predic
 - [Ensemble model](./pubg-finish-placement-prediction-ensemble.ipynb)
 
 ## Contributing
-- Please refer to [CONTRIBUTE.md](./CONTRIBUTE.md) for details. :heart_eyes:
+Please refer to [CONTRIBUTE.md](./CONTRIBUTE.md) for details. :heart_eyes:
 
 ## License
 Kaggle PUBG Finish Placement Prediction is released under the [MIT License](./LICENSE).
