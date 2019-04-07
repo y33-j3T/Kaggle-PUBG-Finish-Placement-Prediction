@@ -65,10 +65,7 @@ game of all time, and has millions of active monthly players.
 ## Usage
 To run this notebook interactively:
 
-1. Download this repository in a zip file by clicking [here](https://github.com/y33-j3T/Kaggle-PUBG-Finish-Placement-Prediction/archive/master.zip) or execute this from the terminal: 
-```
-git clone https://github.com/y33-j3T/Kaggle-PUBG-Finish-Placement-Prediction.git
-```
+1. Download this repository in a zip file by clicking [here](https://github.com/y33-j3T/Kaggle-PUBG-Finish-Placement-Prediction/archive/master.zip) or execute this from the terminal: `git clone https://github.com/y33-j3T/Kaggle-PUBG-Finish-Placement-Prediction.git `
 2. Install [virtualenv](http://virtualenv.readthedocs.org/en/latest/installation.html).
 3. Navigate to the directory where you unzipped or cloned the repo and create a virtual environment with `virtualenv env`.
 4. Activate the environment with `source env/bin/activate`
