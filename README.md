@@ -76,8 +76,8 @@ To run this notebook interactively:
 
 ## Exploratory Data Analysis
 Official datasets website: https://www.kaggle.com/c/pubg-finish-placement-prediction/data
-- [Data Preprocessing]
-
+- [Data Preprocessing]()
+- [Exploratory Data Analysis]()
 
 ## Model Deployment
 - [Random Forest model](./pubg-finish-placement-prediction-rf.ipynb)
