@@ -96,7 +96,9 @@ deactivate
 Official datasets website: https://www.kaggle.com/c/pubg-finish-placement-prediction/data
 - [Data Exploration]()
 - [Data Preprocessing]()
-- [Exploratory Data Analysis]()
+- [Feature Extraction]()
+- [Feature Engineering]()
+*working in progress*
 
 ## Model Deployment
 - [Random Forest model](./pubg-finish-placement-prediction-rf.ipynb)
