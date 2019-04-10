@@ -86,7 +86,7 @@ pip install -r requirements.txt
 ```
 ipython notebook
 ```
-7. Click on `Titanic.ipynb` on the IPython Notebook dasboard and enjoy!
+7. Click on files with `.ipynb` extension on the IPython Notebook dasboard and enjoy!
 8. When you're done deactivate the virtual environment with 
 ```
 deactivate
@@ -94,6 +94,7 @@ deactivate
 
 ## Exploratory Data Analysis
 Official datasets website: https://www.kaggle.com/c/pubg-finish-placement-prediction/data
+- [Data Exploration]()
 - [Data Preprocessing]()
 - [Exploratory Data Analysis]()
 
