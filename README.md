@@ -99,7 +99,7 @@ Official datasets website: https://www.kaggle.com/c/pubg-finish-placement-predic
 - [Feature Extraction]()
 - [Feature Engineering]()
 
-*working in progress*
+*work in progress*
 
 ## Model Deployment
 - [Random Forest model](./pubg-finish-placement-prediction-rf.ipynb)
