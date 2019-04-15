@@ -11,7 +11,7 @@ Competition website: https://www.kaggle.com/c/pubg-finish-placement-prediction
 - [License](#License)
 
 ## Introduction
-My very first solo but second competition =)
+My second competition, a solo one.	:grinning:
 
 ### Competition Description
 <details>
@@ -98,10 +98,7 @@ deactivate
 
 ## Exploratory Data Analysis
 Official datasets website: https://www.kaggle.com/c/pubg-finish-placement-prediction/data
-- [Data Exploration]()
-- [Data Preprocessing]()
-- [Feature Extraction]()
-- [Feature Engineering]()
+- *work in progress*
 
 ## Model Deployment
 - [Random Forest model](./pubg-finish-placement-prediction-rf.ipynb)
