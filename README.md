@@ -1,5 +1,6 @@
 # Kaggle PUBG Finish Placement Prediction
 Competition website: https://www.kaggle.com/c/pubg-finish-placement-prediction
+Competition datasets website: https://www.kaggle.com/c/pubg-finish-placement-prediction/data
 
 ## Contents
 - [Introduction](#Introduction)
@@ -96,8 +97,9 @@ jupyter notebook
 deactivate
 ```
 
+Note: Remember to download the datasets before running the notebooks. For notebooks that require external datasets, the links to these datasets are provided in the notebook itself.
+
 ## Exploratory Data Analysis
-Official datasets website: https://www.kaggle.com/c/pubg-finish-placement-prediction/data
 - *work in progress*
 
 ## Model Deployment
