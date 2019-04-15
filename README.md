@@ -11,6 +11,8 @@ Competition website: https://www.kaggle.com/c/pubg-finish-placement-prediction
 - [License](#License)
 
 ## Introduction
+My very first solo but second competition =)
+
 ### Competition Description
 <details>
 <summary>Details</summary>
