@@ -11,7 +11,6 @@ Competition website: https://www.kaggle.com/c/pubg-finish-placement-prediction
 - [License](#License)
 
 ## Introduction
-
 ### Competition Description
 <details>
 <summary>Details</summary>
@@ -57,10 +56,9 @@ game of all time, and has millions of active monthly players.
 </details>
 
 ## Installation
+- [Anaconda](https://www.anaconda.com/distribution/)
 * [NumPy](http://www.numpy.org/)
-* [IPython](http://ipython.org/)
 * [Pandas](http://pandas.pydata.org/)
-* [Matplotlib](http://matplotlib.org/)
 
 ## Usage
 To run this notebook interactively:
@@ -69,24 +67,28 @@ To run this notebook interactively:
 ```
 git clone https://github.com/y33-j3T/Kaggle-PUBG-Finish-Placement-Prediction.git 
 ```
-2. Install [virtualenv](http://virtualenv.readthedocs.org/en/latest/installation.html).
-3. Navigate to the directory where you unzipped or cloned the repo and create a virtual environment with 
+2. Open Anaconda Prompt.
+3. Navigate to the directory where you unzipped or cloned the repo with
 ```
-virtualenv env
+cd [path address]
 ```
-4. Activate the environment with 
+4. Create a virtual environment with
 ```
-source env/bin/activate
+conda create -n [environment name] python=3.7
 ```
-5. Install the required dependencies with
+5. Activate the environment with 
+```
+activate [environment name]
+```
+6. Install the required dependencies with
 ```
 pip install -r requirements.txt
 ```
-6. Execute IPython notebook from the command line or terminal with
+7. Execute Jupyter Notebook from the command line or terminal with
 ```
-ipython notebook
+jupyter notebook
 ```
-7. Click on files with `.ipynb` extension on the IPython Notebook dasboard and enjoy!
+7. Click on files with `.ipynb` extension on the Jupyter Notebook dasboard and enjoy!
 8. When you're done deactivate the virtual environment with 
 ```
 deactivate
@@ -98,8 +100,6 @@ Official datasets website: https://www.kaggle.com/c/pubg-finish-placement-predic
 - [Data Preprocessing]()
 - [Feature Extraction]()
 - [Feature Engineering]()
-
-*work in progress*
 
 ## Model Deployment
 - [Random Forest model](./pubg-finish-placement-prediction-rf.ipynb)
