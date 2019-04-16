@@ -1,6 +1,5 @@
 # Kaggle PUBG Finish Placement Prediction
-Competition website: https://www.kaggle.com/c/pubg-finish-placement-prediction \
-Competition datasets website: https://www.kaggle.com/c/pubg-finish-placement-prediction/data
+Competition website: https://www.kaggle.com/c/pubg-finish-placement-prediction 
 
 ## Contents
 - [Introduction](#Introduction)
@@ -64,40 +63,59 @@ game of all time, and has millions of active monthly players.
 - [Pandas](http://pandas.pydata.org/)
 
 ## Usage
-To run this notebook interactively:
+Few ways to run these notebooks interactively:
 
+### Jupyter Notebook
+<details>
+<summary>Details</summary>
+  
 1. Download this repository in a zip file by clicking [here](https://github.com/y33-j3T/Kaggle-PUBG-Finish-Placement-Prediction/archive/master.zip) or execute this from the terminal: 
 ```
 git clone https://github.com/y33-j3T/Kaggle-PUBG-Finish-Placement-Prediction.git 
 ```
-2. Open Anaconda Prompt.
-3. Navigate to the directory where you unzipped or cloned the repo with
+2. Download the datasets at the [competition website](https://www.kaggle.com/c/pubg-finish-placement-prediction/data).
+3. Put both downloads in the same directory.
+4. Open Anaconda Prompt.
+5. Navigate to the directory where you unzipped or cloned the repo and datasets with
 ```
 cd [path address]
 ```
-4. Create a virtual environment with
+6. Create a virtual environment with
 ```
 conda create -n [environment name] python=3.7
 ```
-5. Activate the environment with 
+7. Activate the environment with 
 ```
 activate [environment name]
 ```
-6. Install the required dependencies with
+8. Install the required dependencies with
 ```
 pip install -r requirements.txt
 ```
-7. Execute Jupyter Notebook from the command line or terminal with
+9. Execute Jupyter Notebook from the command line or terminal with
 ```
 jupyter notebook
 ```
-7. Click on files with `.ipynb` extension on the Jupyter Notebook dasboard and enjoy!
-8. When you're done deactivate the virtual environment with 
+10. Click on files with `.ipynb` extension on the Jupyter Notebook dasboard and enjoy!
+11. When you're done deactivate the virtual environment with 
 ```
 deactivate
 ```
 
-Note: Remember to download the datasets before running the notebooks. For notebooks that require external datasets, the links to these datasets are provided in the notebook itself.
+</details>
+
+### Google Colab
+<details>
+<summary>Details</summary>
+  
+</details>
+
+### Kaggle Kernels
+<details>
+<summary>Details</summary>
+  
+</details>
+
 
 ## Exploratory Data Analysis
 - *work in progress*
