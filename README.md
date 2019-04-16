@@ -59,8 +59,6 @@ game of all time, and has millions of active monthly players.
 
 ## Installation
 - [Anaconda](https://www.anaconda.com/distribution/)
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org/)
 
 ## Usage
 Few ways to run these notebooks interactively:
