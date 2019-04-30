@@ -138,7 +138,7 @@ git clone https://github.com/y33-j3T/Kaggle-PUBG-Finish-Placement-Prediction.git
 
 </details>
 
-Note: To properly load data, paths contained inside `read_csv()` functions in the notebooks might need to be edited according to how you  the downloaded datasets are arranged in your directory.
+Note: Depending on how datasets are arranged in your directory, paths contained inside `read_csv()` might need to be changed accordingly.
 
 ## Exploratory Data Analysis
 - *work in progress*
