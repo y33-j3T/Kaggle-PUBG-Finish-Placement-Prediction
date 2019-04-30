@@ -71,10 +71,11 @@ Few ways to run these notebooks interactively:
 ```
 git clone https://github.com/y33-j3T/Kaggle-PUBG-Finish-Placement-Prediction.git 
 ```
-2. Download the datasets at the [competition website](https://www.kaggle.com/c/pubg-finish-placement-prediction/data).
-3. Put both downloads in the same directory.
+2. Download the datasets at [competition website - data](https://www.kaggle.com/c/pubg-finish-placement-prediction/data).
+3. Put both downloads in the same directory and unzip them.
+4. For cleanliness, create a new folder `input` and put the datasets (with `.csv` extensions) into it.
 4. Open Anaconda Prompt.
-5. Navigate to the directory where you unzipped or cloned the repo and datasets with
+5. Navigate to the **repository folder** with
 ```
 cd [path address]
 ```
@@ -95,7 +96,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 10. Click on files with `.ipynb` extension on the Jupyter Notebook dasboard and enjoy!
-11. When you're done deactivate the virtual environment with 
+11. When you're done, deactivate the virtual environment with 
 ```
 deactivate
 ```
@@ -105,6 +106,17 @@ deactivate
 ### Google Colab
 <details>
 <summary>Details</summary>
+
+1. Download the datasets at [competition website - data](https://www.kaggle.com/c/pubg-finish-placement-prediction/data).
+2. Put all downloads in the same directory and unzip them.
+3. For cleanliness, create a new folder `input` and put the datasets (with `.csv` extensions) into it.
+4. Click on any model you want work with at the [**Model Deployment**](#Model-Deployment) section.
+5. Copy the link of the page and paste it into the search bar of a new page.
+6. Replace `https://github.com` with `colab.research.google.com/github` and hit <kbd>enter</kbd>.
+7. Go to the sidebar, click on **Files** > **Upload**.
+8. Upload all contents in the `input` folder.
+9. You may now run the notebook.
+10. Once you are done, remember to save the notebook somewhere.
   
 </details>
 
@@ -112,6 +124,18 @@ deactivate
 <details>
 <summary>Details</summary>
   
+1. Download this repository in a zip file by clicking [here](https://github.com/y33-j3T/Kaggle-PUBG-Finish-Placement-Prediction/archive/master.zip) or execute this from the terminal: 
+```
+git clone https://github.com/y33-j3T/Kaggle-PUBG-Finish-Placement-Prediction.git 
+```
+2. Unzip your download.
+3. Go to [competition website - kernels](https://www.kaggle.com/c/pubg-finish-placement-prediction/kernels).
+4. Click on **New Kernel**.
+5. Select **Notebook**.
+6. Click on **File** > **Upload Notebook**.
+7. Upload any file with `.ipynb` extension that you want to work with and enjoy!
+8. Once you are done, remember to click on **Commit**.
+
 </details>
 
 
