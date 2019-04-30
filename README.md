@@ -73,7 +73,7 @@ git clone https://github.com/y33-j3T/Kaggle-PUBG-Finish-Placement-Prediction.git
 ```
 2. Download the datasets at [competition website - data](https://www.kaggle.com/c/pubg-finish-placement-prediction/data).
 3. Put both downloads in the same directory and unzip them.
-4. For cleanliness, create a new folder `input` and put the datasets (with `.csv` extensions) into it.
+4. For cleanliness, create a new folder **input** and put the datasets (with `.csv` extensions) into it.
 4. Open Anaconda Prompt.
 5. Navigate to the **repository folder** with
 ```
@@ -109,12 +109,12 @@ deactivate
 
 1. Download the datasets at [competition website - data](https://www.kaggle.com/c/pubg-finish-placement-prediction/data).
 2. Put all downloads in the same directory and unzip them.
-3. For cleanliness, create a new folder `input` and put the datasets (with `.csv` extensions) into it.
+3. For cleanliness, create a new folder **input** and put the datasets (with `.csv` extensions) into it.
 4. Click on any model you want work with at the [**Model Deployment**](#Model-Deployment) section.
 5. Copy the link of the page and paste it into the search bar of a new page.
-6. Replace `https://github.com` with `colab.research.google.com/github` and hit <kbd>enter</kbd>.
+6. Replace `https://github.com` with `colab.research.google.com/github` and hit enter.
 7. Go to the sidebar, click on **Files** > **Upload**.
-8. Upload all contents in the `input` folder.
+8. Upload all contents in the **input** folder.
 9. You may now run the notebook.
 10. Once you are done, remember to save the notebook somewhere.
   
@@ -133,11 +133,12 @@ git clone https://github.com/y33-j3T/Kaggle-PUBG-Finish-Placement-Prediction.git
 4. Click on **New Kernel**.
 5. Select **Notebook**.
 6. Click on **File** > **Upload Notebook**.
-7. Upload any file with `.ipynb` extension that you want to work with and enjoy!
+7. Upload any file with `.ipynb` extension that you want to work with from your downloaded repository and enjoy!
 8. Once you are done, remember to click on **Commit**.
 
 </details>
 
+Note: To properly load data, paths contained inside `read_csv()` functions in the notebooks might need to be edited according to how you  the downloaded datasets are arranged in your directory.
 
 ## Exploratory Data Analysis
 - *work in progress*
